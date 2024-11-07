@@ -1,0 +1,27 @@
+BACKEND:
+
+1.) bcryptjs
+2.) jsonwebtoken
+3.) express-session
+4.) express-validator,validator
+5.) nodemon
+6.) passport
+7.) cookie-parser
+8.) cors
+9.) dotenv
+10.) mongoose,prisma
+11.) multer
+12.) authjs
+13.) helmet
+14.) morgan
+15.) csrf
+16.) winston
+17.) uuid
+18.) nodemailer
+19.) express-rate-limit
+20.) socket.io
+
+
+FRONTEND:
+
+1.) authjs
